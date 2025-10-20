@@ -91,7 +91,7 @@ Bu gizlilik politikasını zaman zaman güncelleyebiliriz. Değişiklikler bu sa
 
 Gizlilik politikamız hakkında sorularınız varsa lütfen bizimle iletişime geçin:
 
-**E-posta:** [E-posta adresinizi buraya ekleyin]
+**E-posta:** info@dayzenstudio.com
 
 ---
 
@@ -124,4 +124,4 @@ Google Privacy Policy: https://policies.google.com/privacy
 
 ### Contact
 
-For privacy questions, contact us at: [Your email here]
+For privacy questions, contact us at: info@dayzenstudio.com
